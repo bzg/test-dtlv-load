@@ -3,7 +3,7 @@
 ;; Require pods and datalevin pod
 (require '[babashka.pods :as pods])
 (require '[babashka.cli :as cli])
-(pods/load-pod 'huahaiy/datalevin "0.7.12")
+(pods/load-pod 'huahaiy/datalevin "0.8.0")
 (require '[pod.huahaiy.datalevin :as d])
 
 ;; Create the database
