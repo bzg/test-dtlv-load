@@ -9,9 +9,9 @@ Clone and run this script:
 Last timed results:
 
 ```
-1000: 1,64s user 0,17s system 96% cpu 1,870 total
-2000: 5,50s user 0,14s system 97% cpu 5,789 total
-3000: 12,19s user 0,17s system 98% cpu 12,569 total
-4000: 20,96s user 0,23s system 98% cpu 21,472 total
-5000: 32,70s user 0,22s system 99% cpu 33,247 total
+1000: ./test.clj  0,30s user 0,07s system 97% cpu 0,375 total
+2000: ./test.clj  0,54s user 0,08s system 98% cpu 0,626 total
+3000: ./test.clj  0,79s user 0,13s system 98% cpu 0,930 total
+4000: ./test.clj  1,12s user 0,09s system 99% cpu 1,223 total
+5000: ./test.clj  1,42s user 0,13s system 99% cpu 1,559 total
 ```
