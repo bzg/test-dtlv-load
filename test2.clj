@@ -3,7 +3,7 @@
 ;; Require pods and datalevin pod
 (require '[babashka.pods :as pods])
 (require '[babashka.cli :as cli])
-(pods/load-pod 'huahaiy/datalevin "0.8.0")
+(pods/load-pod 'huahaiy/datalevin "0.8.2")
 (require '[pod.huahaiy.datalevin :as d])
 (require '[cheshire.core :as json])
 
